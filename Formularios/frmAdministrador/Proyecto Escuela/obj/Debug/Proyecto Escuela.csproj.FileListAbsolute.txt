@@ -1,0 +1,28 @@
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe.config
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\bin\Debug\Proyecto Escuela.pdb
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto Escuela.csprojAssemblyReference.cache
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto_Escuela.Properties.Resources.resources
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto Escuela.csproj.GenerateResource.cache
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto Escuela.exe
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto Escuela.pdb
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto_Escuela.frmAdministrador.resources
+C:\Users\osegu\OneDrive\UNICAH\Programación Científica II\Tercer parcial\Proyecto Escuela\obj\Debug\Proyecto_Escuela.frmLogin.resources
+C:\Users\danie\Desktop\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe.config
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto Escuela.exe
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto Escuela.pdb
+C:\Users\danie\Desktop\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe
+C:\Users\danie\Desktop\Proyecto Escuela\bin\Debug\Proyecto Escuela.pdb
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto Escuela.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.frmLogin.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.Properties.Resources.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto Escuela.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.frmAdministrador.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEliminarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarDocente.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarDocentes.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEliminarDocente.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarAlumno.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEncargadoAlumno.resources

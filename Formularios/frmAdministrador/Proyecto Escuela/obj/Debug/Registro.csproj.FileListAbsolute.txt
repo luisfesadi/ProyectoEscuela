@@ -1,0 +1,58 @@
+C:\Users\danie\Desktop\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe.config
+C:\Users\danie\Desktop\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe
+C:\Users\danie\Desktop\Proyecto Escuela\bin\Debug\Proyecto Escuela.pdb
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAdministrador.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarAlumno.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarDocente.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarDocentes.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEliminarDocente.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEliminarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEncargadoAlumno.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.Properties.Resources.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Registro.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto Escuela.exe
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto Escuela.pdb
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarAlumno.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEliminarAlumno.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAdmin.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarEncargado.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmConsultarAlumno.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmConsultarDocente.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmConsultarRegistro.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarEncargado.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEliminarEncargado.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmConsultarEncargado.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmAgregarAsignacionClases.resources
+C:\Users\danie\Desktop\Proyecto Escuela\obj\Debug\Proyecto_Escuela.FrmEditarAsignacionClases.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe.config
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\bin\Debug\Proyecto Escuela.exe
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\bin\Debug\Proyecto Escuela.pdb
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAdministrador.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAdmin.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAgregarAlumno.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAgregarDocente.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAgregarEncargado.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAgregarRegistro.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmAgregarAsignacionClases.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmConsultarAlumno.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmConsultarDocente.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmConsultarRegistro.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEditarAlumno.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEditarAsignacionClases.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEditarDocentes.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEditarEncargado.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEditarRegistro.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEliminarAlumno.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEliminarDocente.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEliminarEncargado.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEliminarRegistro.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmEncargadoAlumno.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.FrmConsultarEncargado.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Proyecto_Escuela.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Registro.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Proyecto Escuela.exe
+C:\Users\Gerardo\Desktop\ProyectoEscuela\cientificaIIProyecto\Formularios\frmAdministrador\Proyecto Escuela\obj\Debug\Proyecto Escuela.pdb

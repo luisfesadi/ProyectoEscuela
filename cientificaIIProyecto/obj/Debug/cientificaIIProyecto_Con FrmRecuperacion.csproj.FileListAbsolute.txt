@@ -1,0 +1,66 @@
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\bin\Debug\cientificaIIProyecto.exe.config
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\bin\Debug\cientificaIIProyecto.exe
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\bin\Debug\cientificaIIProyecto.pdb
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto_Con FrmRecuperacion.csprojAssemblyReference.cache
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAdmin.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAgregarAlumno.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAsignacionClases.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAgregarDocenteRegistro.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAgregarEncargado.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmConsultarAlumno.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmConsultarDocenteRegistro.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmConsultarEncargado.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEditarAlumno.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEditarDocenteRegistro.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEditarEncargado.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEliminarAlumno.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEliminarDocenteRegistro.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEliminarEncargado.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEncargadoDocente.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Proyecto_Escuela.frmAlumno.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Proyecto_Escuela.frmInformaciónAlumno.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Proyecto_Escuela.frmNotas.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmDocente.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmIngresarNotas.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmInicioDocente.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmListarNotas.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.frmLogin.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.frmRecuperar.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.frmSeleccionarFormas.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.Properties.Resources.resources
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto_Con FrmRecuperacion.csproj.GenerateResource.cache
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.exe
+C:\Users\luisf\Documents\UNICAH\Cientifica 2\III Parcial\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.pdb
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\bin\Debug\cientificaIIProyecto.exe.config
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.exe
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.pdb
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\bin\Debug\cientificaIIProyecto.exe
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\bin\Debug\cientificaIIProyecto.pdb
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto_Con FrmRecuperacion.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAdmin.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAgregarAlumno.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAsignacionClases.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAgregarDocenteRegistro.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmAgregarEncargado.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmConsultarAlumno.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmConsultarDocenteRegistro.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmConsultarEncargado.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEditarAlumno.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEditarDocenteRegistro.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEditarEncargado.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEliminarAlumno.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEliminarDocenteRegistro.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEliminarEncargado.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Registro.FrmEncargadoDocente.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Proyecto_Escuela.frmAlumno.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Proyecto_Escuela.frmInformaciónAlumno.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\Proyecto_Escuela.frmNotas.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmDocente.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmIngresarNotas.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmInicioDocente.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\FrmDocente.FrmListarNotas.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.frmLogin.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.frmRecuperar.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.frmSeleccionarFormas.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto.Properties.Resources.resources
+C:\Users\danie\Documents\Proyecto Escuela - Programación Científica II\cientificaIIProyecto\obj\Debug\cientificaIIProyecto_Con FrmRecuperacion.csproj.GenerateResource.Cache
